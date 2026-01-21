@@ -1,6 +1,11 @@
 # aws-data-deletion-platform-design
 Design artifacts for the AWS On Demand Data Deletion Platform.
 
+## Project status
+This repository is archived and no longer under active development.
+
+## Documents
+
 * [Proposed technical design](technical-design/proposed-technical-design.md)
 * [Design options analysis](technical-design/design-options-analysis.md)
 * [Product requirements](requirements/product-requirements.md)
